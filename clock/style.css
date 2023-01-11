@@ -10,6 +10,12 @@ body{
     align-items: center;
 }
 
+.container{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+}
+
 img{
     width: 70px;
     position: absolute;
@@ -19,11 +25,7 @@ img{
     z-index: 2;
 }
 
-.items{
-    position: absolute;
-    width: 500px;
-    height: 500px;
-}
+
 
 .clock{
     position: relative;
